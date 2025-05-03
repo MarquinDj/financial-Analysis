@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This file is auto-generated and is overwritten each time the workflow is saved.
+    The metadata have moved to the `workflow-metadata.xml` file.-->
+<KNIMEMetaInfo nrOfElements="2" xmlns="http://www.knime.org/2.9/metainfo">
+    <element form="multiline" name="Comments" read-only="false"><![CDATA[<p><strong>Data and Use Case</strong></p><p><strong>Data - Real world purchases data from the London Fire Brigade (from the London Data Store:</strong></p><p><strong>https://data.london.gov.uk/dataset/lfb-payments-over-f250---2022-23). The dataset has 10 columns (with useful headers) and around 6000 rows for each month's data.</strong></p><p><strong>Use Case - Take 3 months of data and manipulate to show overall totals and trends and VAT data and store totals by month by vendor, department and category and department and category</strong></p>
+
+TAGS: Financial Analysis]]></element>
+    <element form="text" name="Last Edited" read-only="true">2025-05-02 18:50:42 -0300</element>
+</KNIMEMetaInfo>

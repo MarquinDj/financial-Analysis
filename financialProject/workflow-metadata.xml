@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow-metadata content-type="text/html" xmlns="http://www.knime.org/core/node/workflow/metadata/v1.0">
+    <last-modified>2025-05-02T18:50:42.453-03:00</last-modified>
+    <description><![CDATA[<p><strong>Data and Use Case</strong></p><p><strong>Data - Real world purchases data from the London Fire Brigade (from the London Data Store:</strong></p><p><strong>https://data.london.gov.uk/dataset/lfb-payments-over-f250---2022-23). The dataset has 10 columns (with useful headers) and around 6000 rows for each month's data.</strong></p><p><strong>Use Case - Take 3 months of data and manipulate to show overall totals and trends and VAT data and store totals by month by vendor, department and category and department and category</strong></p>]]></description>
+    <tags>
+        <tag>Financial Analysis</tag>
+    </tags>
+</workflow-metadata>
