@@ -16,7 +16,7 @@
         </config>
         <config key="sqlite-connection">
             <entry key="location" type="xstring" value="FILE"/>
-            <entry key="path" type="xstring" value="C:\Users\Marcu\knime-workspace\Exercises+and+Datasets\Datasets\Input.sqlite"/>
+            <entry key="path" type="xstring" value="C:\Users\Marcu\Desktop\Exercises+and+Datasets\Datasets\Input.sqlite"/>
             <entry key="in_memory_database_name" type="xstring" value="temporary"/>
         </config>
         <config key="external_to_knime_mapping_Internals">
@@ -920,10 +920,6 @@
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
-    <config key="nodecontainer_message">
-        <entry key="type" type="xstring" value="WARNING"/>
-        <entry key="message" type="xstring" value="DB Connection no longer available. Go to advanced settings to enable connection restoration."/>
-    </config>
     <entry key="factory" type="xstring" value="org.knime.database.extension.sqlite.node.connector.SQLiteDBConnectorNodeFactory"/>
     <entry key="node-name" type="xstring" value="SQLite Connector"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME database extensions"/>
@@ -943,7 +939,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.database.port.DBSessionPortObjectSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.database.port.DBSessionPortObject"/>
-            <entry key="port_object_summary" type="xstring" value="SQLite a5aa52f5-cd22-4aaa-8b5f-e5a07a6c0822"/>
+            <entry key="port_object_summary" type="xstring" value="SQLite 20ceb649-a357-4f5e-b68f-4715593df250"/>
             <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
             <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
@@ -951,6 +947,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="596b4c37-507c-461f-a7f5-008c7c1e1845"/>
     </config>
 </config>
